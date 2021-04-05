@@ -1,4 +1,3 @@
 # Pathfinding_algo_repo
-Just a simple code for Dijkstra's shortest path algorithm.
-Also this is the first time I am doing something on Github that might have some significance....
+A repo for a algorithms that can be used for shortest path in agraph. For now it consists of a simple code for Dijkstra's shortest path algorithm. I will be using JavaScript for all the algorithms that I am gonna be adding soon including this one
 I will be adding in more algorithms that can be used find the shortest path in a graph
